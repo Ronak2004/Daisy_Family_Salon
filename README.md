@@ -17,3 +17,10 @@
 <h2>Getting Started 🚀</h2>
 
 <h4>Prerequisites</h4>
+
+<p>
+• A web server like XAMPP/WAMP
+• PHP (v7+ recommended)
+• MySQL database
+• A modern browser (Chrome/Edge)
+• Basic knowledge of HTML, CSS, JS, and PHP setup</p>
