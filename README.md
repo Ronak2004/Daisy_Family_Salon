@@ -13,3 +13,7 @@
 
 • Communication: Enable customers to receive updates and reminders about their bookings via WhatsApp and email, ensuring a seamless and hassle-free experience.
 </p>
+
+<h2>Getting Started 🚀</h2>
+
+<h4>Prerequisites</h4>
