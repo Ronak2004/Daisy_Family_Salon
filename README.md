@@ -20,7 +20,11 @@
 
 <p>
 • A web server like XAMPP/WAMP
+  
 • PHP (v7+ recommended)
+
 • MySQL database
+
 • A modern browser (Chrome/Edge)
+
 • Basic knowledge of HTML, CSS, JS, and PHP setup</p>
